@@ -1,3 +1,4 @@
-[submodule "ninjapay.github.io"]
+[submodule "build"]
 	path = build
 	url = https://github.com/ninjapay/ninjapay.github.io
+	branch = master
